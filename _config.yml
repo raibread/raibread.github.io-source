@@ -4,3 +4,4 @@ tab: "den."
 markdown: kramdown
 include:
 - .nojekyll
+destination: source
