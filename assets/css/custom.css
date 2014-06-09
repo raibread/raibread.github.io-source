@@ -1,0 +1,93 @@
+.navbar-custom {
+  background-color: rgb(116, 156, 188);
+  background-color: rgba(116, 156, 188,0.8);
+}
+.navbar-custom .navbar-brand {
+  color: #FFFFFF;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+  color: #FFFACD;
+  background-color: transparent;
+}
+.navbar-custom .navbar-text {
+  color: #FFFFFF;
+}
+.navbar-custom .navbar-nav > li > a {
+  color: #FFFFFF;
+}
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+  color: #FFFACD;
+  background-color: transparent;
+}
+.navbar-custom .navbar-nav > .active > a,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+  color: #F0E68C;
+  font-weight:bold;
+  background-color: transparent;
+}
+.navbar-custom .navbar-nav > .disabled > a,
+.navbar-custom .navbar-nav > .disabled > a:hover,
+.navbar-custom .navbar-nav > .disabled > a:focus {
+  color: #ccc;
+  background-color: transparent;
+}
+.navbar-custom .navbar-toggle {
+  border-color: #ddd;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #ddd;
+}
+.navbar-custom .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+.navbar-custom .navbar-collapse,
+.navbar-custom .navbar-form {
+  border-color: #e7e7e7;
+}
+.navbar-custom .navbar-nav > .open > a,
+.navbar-custom .navbar-nav > .open > a:hover,
+.navbar-custom .navbar-nav > .open > a:focus {
+  color: #555;
+  background-color: #e7e7e7;
+}
+@media (max-width: 767px) {
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a {
+    color: #FFFFFF;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #FFFACD;
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #555;
+    background-color: #e7e7e7;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+    color: #ccc;
+    background-color: transparent;
+  }
+}
+.navbar-custom .navbar-link {
+  color: #FFFFFF;
+}
+.navbar-custom .navbar-link:hover {
+  color: #FFFACD;
+}
+
+.jumbotron {
+  padding: 150px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-image: url('/assets/img/chicago-bw-small.png');
+  background-size: 20%;
+  background-position:center; 
+}

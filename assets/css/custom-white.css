@@ -1,0 +1,98 @@
+.navbar-custom {
+  font-family: 'Raleway', sans-serif;
+  background-color: #FFFFFF;
+  border-color: #cecece;
+}
+.navbar-custom .navbar-brand {
+  color: #586e75;
+  font-size: 20px;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+  color: #cb4b16;
+  background-color: transparent;
+}
+.navbar-custom .navbar-text {
+  color: #586e75;
+}
+.navbar-custom .navbar-nav > li > a {
+  color: #586e75;
+  padding-top: 17px;
+  margin-bottom: -2px;
+}
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+  color: #cb4b16;
+  background-color: transparent;
+}
+.navbar-custom .navbar-nav > .active > a,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+  color: #859900;
+  font-weight:600;
+  background-color: transparent;
+}
+.navbar-custom .navbar-nav > .disabled > a,
+.navbar-custom .navbar-nav > .disabled > a:hover,
+.navbar-custom .navbar-nav > .disabled > a:focus {
+  color: #ccc;
+  background-color: transparent;
+}
+.navbar-custom .navbar-toggle {
+  border-color: #ddd;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #ddd;
+}
+.navbar-custom .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+.navbar-custom .navbar-collapse,
+.navbar-custom .navbar-form {
+  border-color: #e7e7e7;
+}
+.navbar-custom .navbar-nav > .open > a,
+.navbar-custom .navbar-nav > .open > a:hover,
+.navbar-custom .navbar-nav > .open > a:focus {
+  color: #859900;
+  background-color: #e7e7e7;
+}
+@media (max-width: 767px) {
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a {
+    color: #586e75;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #cb4b16;
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #859900;
+    background-color: #e7e7e7;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+    color: #ccc;
+    background-color: transparent;
+  }
+}
+.navbar-custom .navbar-link {
+  color: #586e75;
+}
+.navbar-custom .navbar-link:hover {
+  color: #cb4b16;
+}
+
+.jumbotron {
+  padding: 80px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-image: url('/assets/img/chicago-bw-small.png');
+  background-size: 34%;
+  background-position:center; 
+  border-radius: 10px;
+}
