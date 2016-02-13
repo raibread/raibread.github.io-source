@@ -5,7 +5,7 @@ layout: default
 ### Positions
 
 Federal Reserve Bank of New York 
-:  Research Associate, (2012-Present)
+:  Research Associate, (2012-2014)
 ^  
 DC Energy
 :  Investment Analyst (2010-2011)

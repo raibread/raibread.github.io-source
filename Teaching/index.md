@@ -2,7 +2,10 @@
 layout: default
 ---
 
-### Spring 2015 
+### Teaching Assistant 
 
-STAT 102: Introductory Business Statistics
-:  [Course Guide](../assets/stat102/notes.pdf)
+Spring 2015: STAT 102 - Introductory Business Statistics
+
+Fall 2016: STAT 471 - Intermediate Statistcs
+
+Spring 2016: STAT 101 - Introductory Business Statistics
