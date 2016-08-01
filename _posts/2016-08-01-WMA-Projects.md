@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wharton Moneyball Academy: Additional Project ideas"
+title: "Wharton Moneyball Academy: Additional Project Ideas"
 tags:
 - teaching
 - moneyball
@@ -16,4 +16,4 @@ If you decide to keep working on your mini-project and plan to extend your analy
 - [NBA Shot Distance Project](../../../assets/moneyball/NBA_shot_distance_project.zip)
 - [Pythagorean Prediction Project](../../../assets/moneyball/pythagorean_project.zip)
 
-**NOTE: These projects are a bit more involved than what you've seen thus far so make sure you think you can make enough progress on them by Friday to give a solid presentation**
+**NOTE: These projects are a bit more involved than what you've seen thus far so make sure you think you can make enough progress on them by Friday to give a solid presentation.**

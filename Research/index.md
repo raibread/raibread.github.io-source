@@ -13,4 +13,4 @@ Dynamic Prediction Pools: An Investigation of Financial Frictions and Forecastin
 ### Causal Inference
 
 Sensitivity Analysis for Matched Pair Analysis of Binary Data: From Worst Case to Average Case Analysis
-: Raiden B. Hasegawa and Dylan Small, *In Progress*, 2016.
+: Raiden B. Hasegawa and Dylan Small, *Submitted to Biometrics*, 2016.

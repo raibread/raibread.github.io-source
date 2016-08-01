@@ -15,7 +15,7 @@
 
 ## Setup: Load the MLB payroll data into your working directory
 # You can download it as well as this R script template at
-# www.raidenhasegawa.com.
+# www.raidenhasegawa.com - click on the first post you see.
 
 managers.df <- read.csv("mlb_team_payroll.csv",
                         header = TRUE,
@@ -37,6 +37,7 @@ c(100,"Billy Beane")
 # The solution: Lists
 
 # Create an empty list
+L <-
 
 ## There are a couple ways to add new elements to a list
 
@@ -57,6 +58,7 @@ c(100,"Billy Beane")
 ## Why do we care about lists?
 
 # An example: hist()
+wins <- managers.df$Wins
 
 ####################
 
@@ -74,7 +76,6 @@ c(100,"Billy Beane")
 
 # Now we can go ahead a plot our dependent variable vs.
 # our explanatory variable
-
 
 # What's this `~` thing? Formulas in R
 
@@ -100,4 +101,7 @@ c(100,"Billy Beane")
 example.df <- data.frame(x = c(1, 2, 3, 4), 
                          y = c(5, 6, 7, 8), 
                          z = c("group1", "group1", "group2", "group2"))
+
+
+# Can we use aggregate() to get the mean and SD of payroll by year?
 
