@@ -1,0 +1,8 @@
+---
+layout: post
+title: Wharton Moneyball Academy: Monday's R Lecture Material
+tags:
+- teaching
+- moneyball___
+
+Today we will talk about lists in R and how we use them , the lm() function to do linear regression, and the aggregate() function. Go ahead and download the [MLB payroll dataset](
