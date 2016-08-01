@@ -14,7 +14,12 @@
 ##-----------------------------------------------------------------------------##
 
 ## Setup: Load the MLB payroll data into your working directory
-# You can download it at www.raidenhasegawa.com/data
+# You can download it as well as this R script template at
+# www.raidenhasegawa.com.
+
+managers.df <- read.csv("mlb_team_payroll.csv",
+                        header = TRUE,
+                        stringsAsFactors = FALSE)
 
 ## Recap: Vectors are great for storing data of the same type
 
@@ -77,9 +82,14 @@ c(100,"Billy Beane")
 # - What do we get from lm()?
 # - Like hist(), lm() returns a whole list of outputs
 
+# Let's save our fitted values and residuals as new columns
+
 ## The empirical rule for residuals - Does it hold for our example?
 
-## Predicting with regression
+# It's often useful to turn the residuals into z-scores
+# (Question: Do we need to subtract out the mean?)
+
+## Predicting with regression, using the predict() function
 
 ####################
 
