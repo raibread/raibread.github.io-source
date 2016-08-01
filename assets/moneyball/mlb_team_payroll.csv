@@ -1,0 +1,542 @@
+"","Team","GM","Team.Payroll","Winning..","Year","Wins","Median.Payroll.by.Year"
+"1","Arizona DBacks","Joe Garagiola",31614500,0.401,1998,65,43894495
+"2","Arizona DBacks","Joe Garagiola",70496000,0.617,1999,100,46066376
+"3","Arizona DBacks","Joe Garagiola",81027833,0.525,2000,85,56543084
+"4","Arizona DBacks","Joe Garagiola",81206513,0.568,2001,92,62847834
+"5","Arizona DBacks","Joe Garagiola",102820000,0.605,2002,98,61107577
+"6","Arizona DBacks","Joe Garagiola",80640333,0.519,2003,84,68979834
+"7","Arizona DBacks","Joe Garagiola",70204984,0.315,2004,51,62207785
+"8","Arizona DBacks","Josh Byrnes",63015834,0.475,2005,77,66007009
+"9","Arizona DBacks","Josh Byrnes",59684226,0.469,2006,76,72250291
+"10","Arizona DBacks","Josh Byrnes",52067546,0.556,2007,90,84616817
+"11","Arizona DBacks","Josh Byrnes",66202712,0.506,2008,82,79953783
+"12","Arizona DBacks","Josh Byrnes",73571667,0.432,2009,70,81309612
+"13","Arizona DBacks","Josh Byrnes",60718167,0.401,2010,65,84325334
+"14","Arizona DBacks","Kevin Towers",53639833,0.58,2011,94,86713896
+"15","Arizona DBacks","Kevin Towers",74284833,0.5,2012,81,85753488
+"16","Arizona DBacks","Kevin Towers",89100500,0.5,2013,81,90385763
+"17","Arizona DBacks","Kevin Towers/Dave Stewart",112688666,0.395,2014,64,105625715
+"18","Arizona DBacks","Dave Stewart",76639242,0.488,2015,79,122453376
+"19","Atlanta Braves","John Schuerholz",61708000,0.654,1998,106,43894495
+"20","Atlanta Braves","John Schuerholz",74890000,0.636,1999,103,46066376
+"21","Atlanta Braves","John Schuerholz",84537836,0.586,2000,95,56543084
+"22","Atlanta Braves","John Schuerholz",91851687,0.543,2001,88,62847834
+"23","Atlanta Braves","John Schuerholz",93470367,0.631,2002,102,61107577
+"24","Atlanta Braves","John Schuerholz",106243667,0.623,2003,101,68979834
+"25","Atlanta Braves","John Schuerholz",88507788,0.593,2004,96,62207785
+"26","Atlanta Braves","John Schuerholz",85148582,0.556,2005,90,66007009
+"27","Atlanta Braves","John Schuerholz",90156876,0.488,2006,79,72250291
+"28","Atlanta Braves","John Schuerholz",87290833,0.519,2007,84,84616817
+"29","Atlanta Braves","Frank Wren",102365683,0.444,2008,72,79953783
+"30","Atlanta Braves","Frank Wren",96726167,0.531,2009,86,81309612
+"31","Atlanta Braves","Frank Wren",84423667,0.562,2010,91,84325334
+"32","Atlanta Braves","Frank Wren",87003192,0.549,2011,89,86713896
+"33","Atlanta Braves","Frank Wren",83309942,0.58,2012,94,85753488
+"34","Atlanta Braves","Frank Wren",89778192,0.593,2013,96,90385763
+"35","Atlanta Braves","Frank Wren/John Hart",110897341,0.488,2014,79,105625715
+"36","Atlanta Braves","John Hart",111081246,0.414,2015,67,122453376
+"37","Baltimore Orioles","Pat Gillick",71860921,0.488,1998,79,43894495
+"38","Baltimore Orioles","Frank Wren",72198363,0.481,1999,78,46066376
+"39","Baltimore Orioles","Syd Thrift",81447435,0.457,2000,74,56543084
+"40","Baltimore Orioles","Syd Thrift",72426328,0.391,2001,63,62847834
+"41","Baltimore Orioles","Syd Thrift",60493487,0.414,2002,67,61107577
+"42","Baltimore Orioles","Jim Beattie and Mike Flanagan",73877500,0.438,2003,71,68979834
+"43","Baltimore Orioles","Jim Beattie and Mike Flanagan",51212653,0.481,2004,78,62207785
+"44","Baltimore Orioles","Jim Beattie and Mike Flanagan",74570539,0.457,2005,74,66007009
+"45","Baltimore Orioles","Mike Flanagan",72585582,0.432,2006,70,72250291
+"46","Baltimore Orioles","Mike Flanagan and Andy MacPhail",93554808,0.426,2007,69,84616817
+"47","Baltimore Orioles","Andy MacPhail",67196246,0.422,2008,68,79953783
+"48","Baltimore Orioles","Andy MacPhail",67101667,0.395,2009,64,81309612
+"49","Baltimore Orioles","Andy MacPhail",81612500,0.407,2010,66,84325334
+"50","Baltimore Orioles","Andy MacPhail",85304038,0.426,2011,69,86713896
+"51","Baltimore Orioles","Dan Duquette",81428999,0.574,2012,93,85753488
+"52","Baltimore Orioles","Dan Duquette",90993333,0.525,2013,85,90385763
+"53","Baltimore Orioles","Dan Duquette",107406623,0.593,2014,96,105625715
+"54","Baltimore Orioles","Dan Duquette",118284476,0.5,2015,81,122453376
+"55","Boston Red Sox","Dan Duquette",59497000,0.568,1998,92,43894495
+"56","Boston Red Sox","Dan Duquette",71725000,0.58,1999,94,46066376
+"57","Boston Red Sox","Dan Duquette",77940333,0.525,2000,85,56543084
+"58","Boston Red Sox","Dan Duquette",109558908,0.509,2001,82,62847834
+"59","Boston Red Sox","Mike Port",108366060,0.574,2002,93,61107577
+"60","Boston Red Sox","Theo Epstein",99946500,0.586,2003,95,68979834
+"61","Boston Red Sox","Theo Epstein",125208542,0.605,2004,98,62207785
+"62","Boston Red Sox","Theo Epstein",121311945,0.586,2005,95,66007009
+"63","Boston Red Sox","Theo Epstein",120099824,0.531,2006,86,72250291
+"64","Boston Red Sox","Theo Epstein",143026214,0.593,2007,96,84616817
+"65","Boston Red Sox","Theo Epstein",133390035,0.586,2008,95,79953783
+"66","Boston Red Sox","Theo Epstein",122696000,0.586,2009,95,81309612
+"67","Boston Red Sox","Theo Epstein",162747333,0.549,2010,89,84325334
+"68","Boston Red Sox","Theo Epstein",161407476,0.556,2011,90,86713896
+"69","Boston Red Sox","Ben Cherington",173186617,0.426,2012,69,85753488
+"70","Boston Red Sox","Ben Cherington",150655500,0.599,2013,97,90385763
+"71","Boston Red Sox","Ben Cherington",162817411,0.438,2014,71,105625715
+"72","Boston Red Sox","Ben Cherington",214789749,0.481,2015,78,122453376
+"73","Chicago Cubs","Ed Lynch",49816000,0.552,1998,89,43894495
+"74","Chicago Cubs","Ed Lynch",55443500,0.414,1999,67,46066376
+"75","Chicago Cubs","Ed Lynch/Andy MacPhail",60539333,0.401,2000,65,56543084
+"76","Chicago Cubs","Andy MacPhail",64015833,0.543,2001,88,62847834
+"77","Chicago Cubs","Andy MacPhail/Jim Hendry",75690833,0.414,2002,67,61107577
+"78","Chicago Cubs","Jim Hendry",79868333,0.543,2003,88,68979834
+"79","Chicago Cubs","Jim Hendry",91101667,0.549,2004,89,62207785
+"80","Chicago Cubs","Jim Hendry",87210933,0.488,2005,79,66007009
+"81","Chicago Cubs","Jim Hendry",94424499,0.407,2006,66,72250291
+"82","Chicago Cubs","Jim Hendry",99670332,0.525,2007,85,84616817
+"83","Chicago Cubs","Jim Hendry",118345833,0.602,2008,98,79953783
+"84","Chicago Cubs","Jim Hendry",135050000,0.516,2009,84,81309612
+"85","Chicago Cubs","Jim Hendry",146859000,0.463,2010,75,84325334
+"86","Chicago Cubs","Jim Hendry",125480664,0.438,2011,71,86713896
+"87","Chicago Cubs","Jed Hoyer",88197033,0.377,2012,61,85753488
+"88","Chicago Cubs","Jed Hoyer",104304676,0.407,2013,66,90385763
+"89","Chicago Cubs","Jed Hoyer",89007857,0.451,2014,73,105625715
+"90","Chicago Cubs","Jed Hoyer",134193810,0.599,2015,97,122453376
+"91","Chicago White Sox","Ron Schueler",35180000,0.494,1998,80,43894495
+"92","Chicago White Sox","Ron Schueler",24535000,0.466,1999,75,46066376
+"93","Chicago White Sox","Ron Schueler",31133500,0.586,2000,95,56543084
+"94","Chicago White Sox","Ken Williams",62363000,0.512,2001,83,62847834
+"95","Chicago White Sox","Ken Williams",57052833,0.5,2002,81,61107577
+"96","Chicago White Sox","Ken Williams",51010000,0.531,2003,86,68979834
+"97","Chicago White Sox","Ken Williams",65212500,0.512,2004,83,62207785
+"98","Chicago White Sox","Ken Williams",75228000,0.611,2005,99,66007009
+"99","Chicago White Sox","Ken Williams",102750667,0.556,2006,90,72250291
+"100","Chicago White Sox","Ken Williams",108671833,0.444,2007,72,84616817
+"101","Chicago White Sox","Ken Williams",121189332,0.546,2008,88,79953783
+"102","Chicago White Sox","Ken Williams",96068500,0.488,2009,79,81309612
+"103","Chicago White Sox","Ken Williams",108273197,0.543,2010,88,84325334
+"104","Chicago White Sox","Ken Williams",129285539,0.488,2011,79,86713896
+"105","Chicago White Sox","Ken Williams",96919500,0.525,2012,85,85753488
+"106","Chicago White Sox","Rick Hahn",119073277,0.389,2013,63,90385763
+"107","Chicago White Sox","Rick Hahn",91159254,0.451,2014,73,105625715
+"108","Chicago White Sox","Rick Hahn",118875487,0.469,2015,76,122453376
+"109","Cincinnati Reds","Jim Bowden",20707333,0.475,1998,77,43894495
+"110","Cincinnati Reds","Jim Bowden",42142761,0.589,1999,95,46066376
+"111","Cincinnati Reds","Jim Bowden",46867200,0.525,2000,85,56543084
+"112","Cincinnati Reds","Jim Bowden",45227882,0.407,2001,66,62847834
+"113","Cincinnati Reds","Jim Bowden",45050390,0.481,2002,78,61107577
+"114","Cincinnati Reds","Jim Bowden",59355667,0.426,2003,69,68979834
+"115","Cincinnati Reds","Dan OÕBrien Jr.",43067858,0.469,2004,76,62207785
+"116","Cincinnati Reds","Dan OÕBrien Jr.",59658275,0.451,2005,73,66007009
+"117","Cincinnati Reds","Wayne Krivsky",60909519,0.494,2006,80,72250291
+"118","Cincinnati Reds","Wayne Krivsky",68904980,0.444,2007,72,84616817
+"119","Cincinnati Reds","Wayne Krivsky",74117695,0.457,2008,74,79953783
+"120","Cincinnati Reds","Walt Jocketty",70968500,0.481,2009,78,81309612
+"121","Cincinnati Reds","Walt Jocketty",72386544,0.562,2010,91,84325334
+"122","Cincinnati Reds","Walt Jocketty",76181365,0.488,2011,79,86713896
+"123","Cincinnati Reds","Walt Jocketty",82203616,0.599,2012,97,85753488
+"124","Cincinnati Reds","Walt Jocketty",107491305,0.556,2013,90,90385763
+"125","Cincinnati Reds","Walt Jocketty",112390772,0.469,2014,76,105625715
+"126","Cincinnati Reds","Walt Jocketty",114040612,0.395,2015,64,122453376
+"127","Cleveland Indians","John Hart",59543165,0.549,1998,89,43894495
+"128","Cleveland Indians","John Hart",73278458,0.599,1999,97,46066376
+"129","Cleveland Indians","John Hart",75880871,0.556,2000,90,56543084
+"130","Cleveland Indians","John Hart",91974979,0.562,2001,91,62847834
+"131","Cleveland Indians","Mark Shapiro",78909448,0.457,2002,74,61107577
+"132","Cleveland Indians","Mark Shapiro",48584834,0.42,2003,68,68979834
+"133","Cleveland Indians","Mark Shapiro",34569300,0.494,2004,80,62207785
+"134","Cleveland Indians","Mark Shapiro",41830400,0.574,2005,93,66007009
+"135","Cleveland Indians","Mark Shapiro",56031500,0.481,2006,78,72250291
+"136","Cleveland Indians","Mark Shapiro",61673267,0.593,2007,96,84616817
+"137","Cleveland Indians","Mark Shapiro",78970066,0.5,2008,81,79953783
+"138","Cleveland Indians","Mark Shapiro",81625567,0.401,2009,65,81309612
+"139","Cleveland Indians","Mark Shapiro",61203967,0.426,2010,69,84325334
+"140","Cleveland Indians","Chris Antonetti",49188867,0.494,2011,80,86713896
+"141","Cleveland Indians","Chris Antonetti",78430300,0.42,2012,68,85753488
+"142","Cleveland Indians","Chris Antonetti",77772800,0.568,2013,92,90385763
+"143","Cleveland Indians","Chris Antonetti",82534800,0.525,2014,85,105625715
+"144","Cleveland Indians","Chris Antonetti",77404413,0.503,2015,81,122453376
+"145","Colorado Rockies","Bob Gebhard",47714648,0.475,1998,77,43894495
+"146","Colorado Rockies","Bob Gebhard",54442505,0.444,1999,72,46066376
+"147","Colorado Rockies","Dan O'Dowd",61111190,0.506,2000,82,56543084
+"148","Colorado Rockies","Dan O'Dowd",71068000,0.451,2001,73,62847834
+"149","Colorado Rockies","Dan O'Dowd",56851043,0.451,2002,73,61107577
+"150","Colorado Rockies","Dan O'Dowd",67179667,0.457,2003,74,68979834
+"151","Colorado Rockies","Dan O'Dowd",64590403,0.42,2004,68,62207785
+"152","Colorado Rockies","Dan O'Dowd",47789000,0.414,2005,67,66007009
+"153","Colorado Rockies","Dan O'Dowd",41233000,0.469,2006,76,72250291
+"154","Colorado Rockies","Dan O'Dowd",54424000,0.552,2007,89,84616817
+"155","Colorado Rockies","Dan O'Dowd",68655500,0.457,2008,74,79953783
+"156","Colorado Rockies","Dan O'Dowd",75201000,0.568,2009,92,81309612
+"157","Colorado Rockies","Dan O'Dowd",84227000,0.512,2010,83,84325334
+"158","Colorado Rockies","Dan O'Dowd",87998071,0.451,2011,73,86713896
+"159","Colorado Rockies","Dan O'Dowd",78069571,0.395,2012,64,85753488
+"160","Colorado Rockies","Dan O'Dowd",71924071,0.457,2013,74,90385763
+"161","Colorado Rockies","Dan OÕDowd/Jeff Bridich",95832071,0.407,2014,66,105625715
+"162","Colorado Rockies","Jeff Bridich",106860781,0.42,2015,68,122453376
+"163","Detroit Tigers","Randy Smith",19237500,0.401,1998,65,43894495
+"164","Detroit Tigers","Randy Smith",34959667,0.429,1999,69,46066376
+"165","Detroit Tigers","Randy Smith",58265167,0.488,2000,79,56543084
+"166","Detroit Tigers","Randy Smith",49831167,0.407,2001,66,62847834
+"167","Detroit Tigers","Dave Dombrowski",55048000,0.342,2002,55,61107577
+"168","Detroit Tigers","Dave Dombrowski",49168000,0.265,2003,43,68979834
+"169","Detroit Tigers","Dave Dombrowski",46353554,0.444,2004,72,62207785
+"170","Detroit Tigers","Dave Dombrowski",68998183,0.438,2005,71,66007009
+"171","Detroit Tigers","Dave Dombrowski",82612866,0.586,2006,95,72250291
+"172","Detroit Tigers","Dave Dombrowski",95180369,0.543,2007,88,84616817
+"173","Detroit Tigers","Dave Dombrowski",137685196,0.457,2008,74,79953783
+"174","Detroit Tigers","Dave Dombrowski",115085145,0.528,2009,86,81309612
+"175","Detroit Tigers","Dave Dombrowski",122864929,0.5,2010,81,84325334
+"176","Detroit Tigers","Dave Dombrowski",105705232,0.586,2011,95,86713896
+"177","Detroit Tigers","Dave Dombrowski",132300000,0.543,2012,88,85753488
+"178","Detroit Tigers","Dave Dombrowski",148414500,0.574,2013,93,90385763
+"179","Detroit Tigers","Dave Dombrowski",162228527,0.556,2014,90,105625715
+"180","Detroit Tigers","Dave Dombrowski",162218297,0.46,2015,75,122453376
+"181","Houston Astros","Gerry Hunsicker",48304000,0.63,1998,102,43894495
+"182","Houston Astros","Gerry Hunsicker",54339000,0.599,1999,97,46066376
+"183","Houston Astros","Gerry Hunsicker",51289111,0.444,2000,72,56543084
+"184","Houston Astros","Gerry Hunsicker",60382667,0.574,2001,93,62847834
+"185","Houston Astros","Gerry Hunsicker",63448417,0.519,2002,84,61107577
+"186","Houston Astros","Gerry Hunsicker",71040000,0.537,2003,87,68979834
+"187","Houston Astros","Gerry Hunsicker",74666303,0.568,2004,92,62207785
+"188","Houston Astros","Tim Purpura",76779022,0.549,2005,89,66007009
+"189","Houston Astros","Tim Purpura",92551503,0.506,2006,82,72250291
+"190","Houston Astros","Tim Purpura/Ed Wade",87759000,0.451,2007,73,84616817
+"191","Houston Astros","Ed Wade",88930414,0.534,2008,87,79953783
+"192","Houston Astros","Ed Wade",102996415,0.457,2009,74,81309612
+"193","Houston Astros","Ed Wade",92355500,0.469,2010,76,84325334
+"194","Houston Astros","Ed Wade",70694000,0.346,2011,56,86713896
+"195","Houston Astros","Jeff Luhnow",60651000,0.34,2012,55,85753488
+"196","Houston Astros","Jeff Luhnow",22062600,0.315,2013,51,90385763
+"197","Houston Astros","Jeff Luhnow",44544174,0.432,2014,70,105625715
+"198","Houston Astros","Jeff Luhnow",81450835,0.531,2015,86,122453376
+"199","KC Royals","Herk Robinson",35610000,0.447,1998,72,43894495
+"200","KC Royals","Herk Robinson",16557000,0.398,1999,64,46066376
+"201","KC Royals","Herk Robinson/Allard Baird",23433000,0.475,2000,77,56543084
+"202","KC Royals","Allard Baird",35643000,0.401,2001,65,62847834
+"203","KC Royals","Allard Baird",47257000,0.383,2002,62,61107577
+"204","KC Royals","Allard Baird",40518000,0.512,2003,83,68979834
+"205","KC Royals","Allard Baird",47609000,0.358,2004,58,62207785
+"206","KC Royals","Allard Baird",36881000,0.346,2005,56,66007009
+"207","KC Royals","Allard Baird/Dayton Moore",47294000,0.383,2006,62,72250291
+"208","KC Royals","Dayton Moore",67116500,0.426,2007,69,84616817
+"209","KC Royals","Dayton Moore",58245500,0.463,2008,75,79953783
+"210","KC Royals","Dayton Moore",70908333,0.401,2009,65,81309612
+"211","KC Royals","Dayton Moore",72267710,0.414,2010,67,84325334
+"212","KC Royals","Dayton Moore",36126400,0.438,2011,71,86713896
+"213","KC Royals","Dayton Moore",60916225,0.444,2012,72,85753488
+"214","KC Royals","Dayton Moore",81491725,0.531,2013,86,90385763
+"215","KC Royals","Dayton Moore",92034345,0.549,2014,89,105625715
+"216","KC Royals","Dayton Moore",126560340,0.586,2015,95,122453376
+"217","LA Angels","Bill Bavasi",48389000,0.525,1998,85,43894495
+"218","LA Angels","Bill Bavasi",49868167,0.432,1999,70,46066376
+"219","LA Angels","Bill Stoneman",51464167,0.506,2000,82,56543084
+"220","LA Angels","Bill Stoneman",46568180,0.463,2001,75,62847834
+"221","LA Angels","Bill Stoneman",61721667,0.611,2002,99,61107577
+"222","LA Angels","Bill Stoneman",79031667,0.475,2003,77,68979834
+"223","LA Angels","Bill Stoneman",101084667,0.568,2004,92,62207785
+"224","LA Angels","Bill Stoneman",95017822,0.586,2005,95,66007009
+"225","LA Angels","Bill Stoneman",103472000,0.549,2006,89,72250291
+"226","LA Angels","Bill Stoneman/Tony Reagins",109251333,0.58,2007,94,84616817
+"227","LA Angels","Tony Reagins",119216333,0.617,2008,100,79953783
+"228","LA Angels","Tony Reagins",113709000,0.599,2009,97,81309612
+"229","LA Angels","Tony Reagins",105013667,0.494,2010,80,84325334
+"230","LA Angels","Tony Reagins",138998524,0.531,2011,86,86713896
+"231","LA Angels","Jerry Dipoto",154485166,0.549,2012,89,85753488
+"232","LA Angels","Jerry Dipoto",127896250,0.481,2013,78,90385763
+"233","LA Angels","Jerry Dipoto",155692000,0.605,2014,98,105625715
+"234","LA Angels","Jerry Dipoto",151348162,0.525,2015,85,122453376
+"235","LA Dodgers","Fred Claire/Tommy Lasorda",62806667,0.512,1998,83,43894495
+"236","LA Dodgers","Kevin Malone",71115786,0.475,1999,77,46066376
+"237","LA Dodgers","Kevin Malone",88124286,0.531,2000,86,56543084
+"238","LA Dodgers","Kevin Malone/David Wallace",108980952,0.531,2001,86,62847834
+"239","LA Dodgers","Dan Evans",94850952,0.568,2002,92,61107577
+"240","LA Dodgers","Dan Evans",105872620,0.525,2003,85,68979834
+"241","LA Dodgers","Paul DePodesta",89694342,0.574,2004,93,62207785
+"242","LA Dodgers","Paul DePodesta",81029500,0.438,2005,71,66007009
+"243","LA Dodgers","Ned Colletti",98447187,0.543,2006,88,72250291
+"244","LA Dodgers","Ned Colletti",108454524,0.506,2007,82,84616817
+"245","LA Dodgers","Ned Colletti",118588536,0.519,2008,84,79953783
+"246","LA Dodgers","Ned Colletti",100458101,0.586,2009,95,81309612
+"247","LA Dodgers","Ned Colletti",94945517,0.494,2010,80,84325334
+"248","LA Dodgers","Ned Colletti",103788990,0.509,2011,82,86713896
+"249","LA Dodgers","Ned Colletti",95143575,0.531,2012,86,85753488
+"250","LA Dodgers","Ned Colletti",216597577,0.568,2013,92,90385763
+"251","LA Dodgers","Ned Colletti",235295219,0.58,2014,94,105625715
+"252","LA Dodgers","Ned Colletti",301735080,0.568,2015,92,122453376
+"253","Miami Marlins","Dave Dombrowski",15141000,0.333,1998,54,43894495
+"254","Miami Marlins","Dave Dombrowski",15150000,0.395,1999,64,46066376
+"255","Miami Marlins","Dave Dombrowski",20072000,0.491,2000,80,56543084
+"256","Miami Marlins","Dave Dombrowski",35504167,0.469,2001,76,62847834
+"257","Miami Marlins","Larry Beinfest",41979917,0.488,2002,79,61107577
+"258","Miami Marlins","Larry Beinfest",49050000,0.562,2003,91,68979834
+"259","Miami Marlins","Larry Beinfest",42118042,0.512,2004,83,62207785
+"260","Miami Marlins","Larry Beinfest",60375961,0.512,2005,83,66007009
+"261","Miami Marlins","Larry Beinfest",14998500,0.481,2006,78,72250291
+"262","Miami Marlins","Larry Beinfest",30507000,0.438,2007,71,84616817
+"263","Miami Marlins","Mike Hill",21811500,0.522,2008,85,79953783
+"264","Miami Marlins","Mike Hill",36814000,0.537,2009,87,81309612
+"265","Miami Marlins","Mike Hill",55641500,0.494,2010,80,84325334
+"266","Miami Marlins","Mike Hill",56944000,0.444,2011,72,86713896
+"267","Miami Marlins","Mike Hill",118078000,0.426,2012,69,85753488
+"268","Miami Marlins","Mike Hill",36341900,0.383,2013,62,90385763
+"269","Miami Marlins","Dan Jennings",47565400,0.475,2014,77,105625715
+"270","Miami Marlins","Dan Jennings",63590525,0.438,2015,71,122453376
+"271","Milwaukee Brewers","Sal Bando",31897903,0.457,1998,74,43894495
+"272","Milwaukee Brewers","Sal Bando/Dean Taylor",42927395,0.46,1999,75,46066376
+"273","Milwaukee Brewers","Dean Taylor",36505333,0.451,2000,73,56543084
+"274","Milwaukee Brewers","Dean Taylor",43089333,0.42,2001,68,62847834
+"275","Milwaukee Brewers","Dean Taylor",50287833,0.346,2002,56,61107577
+"276","Milwaukee Brewers","Douglas Melvin",40627000,0.42,2003,68,68979834
+"277","Milwaukee Brewers","Douglas Melvin",27518500,0.416,2004,67,62207785
+"278","Milwaukee Brewers","Douglas Melvin",40234833,0.5,2005,81,66007009
+"279","Milwaukee Brewers","Douglas Melvin",57568333,0.463,2006,75,72250291
+"280","Milwaukee Brewers","Douglas Melvin",70986500,0.512,2007,83,84616817
+"281","Milwaukee Brewers","Douglas Melvin",80937499,0.556,2008,90,79953783
+"282","Milwaukee Brewers","Douglas Melvin",80257502,0.494,2009,80,81309612
+"283","Milwaukee Brewers","Douglas Melvin",81108279,0.475,2010,77,84325334
+"284","Milwaukee Brewers","Douglas Melvin",85497333,0.593,2011,96,86713896
+"285","Milwaukee Brewers","Douglas Melvin",97653944,0.512,2012,83,85753488
+"286","Milwaukee Brewers","Douglas Melvin",82976944,0.457,2013,74,90385763
+"287","Milwaukee Brewers","Douglas Melvin",103844806,0.506,2014,82,105625715
+"288","Milwaukee Brewers","Douglas Melvin",94010873,0.42,2015,68,122453376
+"289","Minnesota Twins","Terry Ryan",24527500,0.432,1998,70,43894495
+"290","Minnesota Twins","Terry Ryan",16345000,0.394,1999,64,46066376
+"291","Minnesota Twins","Terry Ryan",16519500,0.426,2000,69,56543084
+"292","Minnesota Twins","Terry Ryan",24350000,0.525,2001,85,62847834
+"293","Minnesota Twins","Terry Ryan",40225000,0.584,2002,95,61107577
+"294","Minnesota Twins","Terry Ryan",55505000,0.556,2003,90,68979834
+"295","Minnesota Twins","Terry Ryan",53585000,0.568,2004,92,62207785
+"296","Minnesota Twins","Terry Ryan",56615000,0.512,2005,83,66007009
+"297","Minnesota Twins","Terry Ryan",63396006,0.593,2006,96,72250291
+"298","Minnesota Twins","Terry Ryan",71439500,0.488,2007,79,84616817
+"299","Minnesota Twins","Bill Smith",56932766,0.54,2008,87,79953783
+"300","Minnesota Twins","Bill Smith",65299267,0.534,2009,87,81309612
+"301","Minnesota Twins","Bill Smith",97559167,0.58,2010,94,84325334
+"302","Minnesota Twins","Bill Smith",112737000,0.389,2011,63,86713896
+"303","Minnesota Twins","Terry Ryan",94085000,0.407,2012,66,85753488
+"304","Minnesota Twins","Terry Ryan",75802500,0.407,2013,66,90385763
+"305","Minnesota Twins","Terry Ryan",85776500,0.432,2014,70,105625715
+"306","Minnesota Twins","Terry Ryan",106431818,0.512,2015,83,122453376
+"307","Montreal Expos","Jim Beattie",8317000,0.401,1998,65,43894495
+"308","Montreal Expos","Jim Beattie",16413000,0.42,1999,68,46066376
+"309","Montreal Expos","Jim Beattie",34807833,0.414,2000,67,56543084
+"310","Montreal Expos","Jim Beattie/Larry Beinfest",34774500,0.42,2001,68,62847834
+"311","Montreal Expos","Omar Minaya",38670500,0.512,2002,83,61107577
+"312","Montreal Expos","Omar Minaya",51948500,0.512,2003,83,68979834
+"313","Montreal Expos","Omar Minaya",43197500,0.414,2004,67,62207785
+"314","NY Mets","Steve Phillips",58660665,0.543,1998,88,43894495
+"315","NY Mets","Steve Phillips",71506427,0.595,1999,96,46066376
+"316","NY Mets","Steve Phillips",79509776,0.58,2000,94,56543084
+"317","NY Mets","Steve Phillips",93174428,0.506,2001,82,62847834
+"318","NY Mets","Steve Phillips",94633593,0.466,2002,75,61107577
+"319","NY Mets","Steve Phillips",117176429,0.41,2003,66,68979834
+"320","NY Mets","Jim Duquette",100629303,0.438,2004,71,62207785
+"321","NY Mets","Omar Minaya",104770139,0.512,2005,83,66007009
+"322","NY Mets","Omar Minaya",101084963,0.599,2006,97,72250291
+"323","NY Mets","Omar Minaya",115231663,0.543,2007,88,84616817
+"324","NY Mets","Omar Minaya",137793376,0.549,2008,89,79953783
+"325","NY Mets","Omar Minaya",135773988,0.432,2009,70,81309612
+"326","NY Mets","Omar Minaya",132701445,0.488,2010,79,84325334
+"327","NY Mets","Sandy Alderson",120147310,0.475,2011,77,86713896
+"328","NY Mets","Sandy Alderson",93353983,0.457,2012,74,85753488
+"329","NY Mets","Sandy Alderson",73396649,0.457,2013,74,90385763
+"330","NY Mets","Sandy Alderson",89051758,0.488,2014,79,105625715
+"331","NY Mets","Sandy Alderson",115641550,0.556,2015,90,122453376
+"332","NY Yankees","Brian Cashman",65663698,0.704,1998,114,43894495
+"333","NY Yankees","Brian Cashman",88180712,0.605,1999,98,46066376
+"334","NY Yankees","Brian Cashman",92538260,0.54,2000,87,56543084
+"335","NY Yankees","Brian Cashman",109791893,0.594,2001,96,62847834
+"336","NY Yankees","Brian Cashman",125928583,0.64,2002,104,61107577
+"337","NY Yankees","Brian Cashman",152749814,0.623,2003,101,68979834
+"338","NY Yankees","Brian Cashman",182835513,0.623,2004,101,62207785
+"339","NY Yankees","Brian Cashman",205938439,0.586,2005,95,66007009
+"340","NY Yankees","Brian Cashman",194663079,0.599,2006,97,72250291
+"341","NY Yankees","Brian Cashman",189639045,0.58,2007,94,84616817
+"342","NY Yankees","Brian Cashman",209081577,0.549,2008,89,79953783
+"343","NY Yankees","Brian Cashman",201449289,0.636,2009,103,81309612
+"344","NY Yankees","Brian Cashman",206333389,0.586,2010,95,84325334
+"345","NY Yankees","Brian Cashman",201689030,0.599,2011,97,86713896
+"346","NY Yankees","Brian Cashman",197962289,0.586,2012,95,85753488
+"347","NY Yankees","Brian Cashman",228835490,0.525,2013,85,90385763
+"348","NY Yankees","Brian Cashman",203812506,0.519,2014,84,105625715
+"349","NY Yankees","Brian Cashman",221256867,0.537,2015,87,122453376
+"350","Oakland Athletics","Billy Beane",22463500,0.457,1998,74,43894495
+"351","Oakland Athletics","Billy Beane",24175333,0.537,1999,87,46066376
+"352","Oakland Athletics","Billy Beane",31971333,0.565,2000,92,56543084
+"353","Oakland Athletics","Billy Beane",33810750,0.63,2001,102,62847834
+"354","Oakland Athletics","Billy Beane",39679746,0.636,2002,103,61107577
+"355","Oakland Athletics","Billy Beane",50260834,0.593,2003,96,68979834
+"356","Oakland Athletics","Billy Beane",59825167,0.562,2004,91,62207785
+"357","Oakland Athletics","Billy Beane",55869262,0.543,2005,88,66007009
+"358","Oakland Athletics","Billy Beane",62243079,0.574,2006,93,72250291
+"359","Oakland Athletics","Billy Beane",79366940,0.469,2007,76,84616817
+"360","Oakland Athletics","Billy Beane",47967126,0.466,2008,75,79953783
+"361","Oakland Athletics","Billy Beane",62310000,0.463,2009,75,81309612
+"362","Oakland Athletics","Billy Beane",51654900,0.5,2010,81,84325334
+"363","Oakland Athletics","Billy Beane",66536500,0.457,2011,74,86713896
+"364","Oakland Athletics","Billy Beane",55372500,0.58,2012,94,85753488
+"365","Oakland Athletics","Billy Beane",60664500,0.593,2013,96,90385763
+"366","Oakland Athletics","Billy Beane",83401400,0.543,2014,88,105625715
+"367","Oakland Athletics","Billy Beane",80376830,0.42,2015,68,122453376
+"368","Philadelphia Phillies","Ed Wade",28622500,0.463,1998,75,43894495
+"369","Philadelphia Phillies","Ed Wade",30568167,0.475,1999,77,46066376
+"370","Philadelphia Phillies","Ed Wade",47308000,0.401,2000,65,56543084
+"371","Philadelphia Phillies","Ed Wade",41664167,0.531,2001,86,62847834
+"372","Philadelphia Phillies","Ed Wade",57955000,0.497,2002,81,61107577
+"373","Philadelphia Phillies","Ed Wade",70780000,0.531,2003,86,68979834
+"374","Philadelphia Phillies","Ed Wade",93219167,0.531,2004,86,62207785
+"375","Philadelphia Phillies","Ed Wade",95337908,0.543,2005,88,66007009
+"376","Philadelphia Phillies","Pat Gillick",88273333,0.525,2006,85,72250291
+"377","Philadelphia Phillies","Pat Gillick",89428213,0.549,2007,89,84616817
+"378","Philadelphia Phillies","Pat Gillick",98269880,0.568,2008,92,79953783
+"379","Philadelphia Phillies","Ruben Amaro Jr.",113004048,0.574,2009,93,81309612
+"380","Philadelphia Phillies","Ruben Amaro Jr.",141927381,0.599,2010,97,84325334
+"381","Philadelphia Phillies","Ruben Amaro Jr.",172976381,0.63,2011,102,86713896
+"382","Philadelphia Phillies","Ruben Amaro Jr.",174538938,0.5,2012,81,85753488
+"383","Philadelphia Phillies","Ruben Amaro Jr.",165385714,0.451,2013,73,90385763
+"384","Philadelphia Phillies","Ruben Amaro Jr.",180052723,0.451,2014,73,105625715
+"385","Philadelphia Phillies","Ruben Amaro Jr.",141722639,0.389,2015,63,122453376
+"386","Pittsburgh Pirates","Cam Bonifay",13695000,0.426,1998,69,43894495
+"387","Pittsburgh Pirates","Cam Bonifay",24167667,0.484,1999,78,46066376
+"388","Pittsburgh Pirates","Cam Bonifay",28928333,0.426,2000,69,56543084
+"389","Pittsburgh Pirates","Cam Bonifay/David Littlefield",52698333,0.383,2001,62,62847834
+"390","Pittsburgh Pirates","David Littlefield",42323598,0.447,2002,72,61107577
+"391","Pittsburgh Pirates","David Littlefield",54812429,0.463,2003,75,68979834
+"392","Pittsburgh Pirates","David Littlefield",32227929,0.447,2004,72,62207785
+"393","Pittsburgh Pirates","David Littlefield",38138000,0.414,2005,67,66007009
+"394","Pittsburgh Pirates","David Littlefield",46717750,0.414,2006,67,72250291
+"395","Pittsburgh Pirates","David Littlefield",38537833,0.42,2007,68,84616817
+"396","Pittsburgh Pirates","Neal Huntington",48689783,0.414,2008,67,79953783
+"397","Pittsburgh Pirates","Neal Huntington",48743000,0.385,2009,62,81309612
+"398","Pittsburgh Pirates","Neal Huntington",34943000,0.352,2010,57,84325334
+"399","Pittsburgh Pirates","Neal Huntington",46047000,0.444,2011,72,86713896
+"400","Pittsburgh Pirates","Neal Huntington",63431999,0.488,2012,79,85753488
+"401","Pittsburgh Pirates","Neal Huntington",79555000,0.58,2013,94,90385763
+"402","Pittsburgh Pirates","Neal Huntington",78111667,0.543,2014,88,105625715
+"403","Pittsburgh Pirates","Neal Huntington",99435606,0.605,2015,98,122453376
+"404","San Diego Padres","Kevin Towers",53066166,0.605,1998,98,43894495
+"405","San Diego Padres","Kevin Towers",45832180,0.457,1999,74,46066376
+"406","San Diego Padres","Kevin Towers",54821000,0.469,2000,76,56543084
+"407","San Diego Padres","Kevin Towers",38333117,0.488,2001,79,62847834
+"408","San Diego Padres","Kevin Towers",41425000,0.407,2002,66,61107577
+"409","San Diego Padres","Kevin Towers",47928000,0.395,2003,64,68979834
+"410","San Diego Padres","Kevin Towers",54639503,0.537,2004,87,62207785
+"411","San Diego Padres","Kevin Towers",62888192,0.506,2005,82,66007009
+"412","San Diego Padres","Kevin Towers",69896141,0.543,2006,88,72250291
+"413","San Diego Padres","Kevin Towers",58110567,0.546,2007,88,84616817
+"414","San Diego Padres","Kevin Towers",73677616,0.389,2008,63,79953783
+"415","San Diego Padres","Kevin Towers",42796700,0.463,2009,75,81309612
+"416","San Diego Padres","Jed Hoyer",37799300,0.556,2010,90,84325334
+"417","San Diego Padres","Jed Hoyer",45869140,0.438,2011,71,86713896
+"418","San Diego Padres","Josh Byrnes",55244700,0.469,2012,76,85753488
+"419","San Diego Padres","Josh Byrnes",67143600,0.469,2013,76,90385763
+"420","San Diego Padres","Josh Byrnes/Omar Minaya/A.J. Preller",90094196,0.475,2014,77,105625715
+"421","San Diego Padres","A.J. Preller",127463770,0.457,2015,74,122453376
+"422","San Francisco Giants","Brian Sabean",48514715,0.546,1998,88,43894495
+"423","San Francisco Giants","Brian Sabean",45959557,0.531,1999,86,46066376
+"424","San Francisco Giants","Brian Sabean",53737826,0.599,2000,97,56543084
+"425","San Francisco Giants","Brian Sabean",63332667,0.556,2001,90,62847834
+"426","San Francisco Giants","Brian Sabean",78299835,0.59,2002,96,61107577
+"427","San Francisco Giants","Brian Sabean",82852167,0.621,2003,101,68979834
+"428","San Francisco Giants","Brian Sabean",82019167,0.562,2004,91,62207785
+"429","San Francisco Giants","Brian Sabean",89487842,0.463,2005,75,66007009
+"430","San Francisco Giants","Brian Sabean",90056419,0.472,2006,76,72250291
+"431","San Francisco Giants","Brian Sabean",90219056,0.438,2007,71,84616817
+"432","San Francisco Giants","Brian Sabean",76594500,0.444,2008,72,79953783
+"433","San Francisco Giants","Brian Sabean",82161450,0.543,2009,88,81309612
+"434","San Francisco Giants","Brian Sabean",97828833,0.568,2010,92,84325334
+"435","San Francisco Giants","Brian Sabean",118216333,0.531,2011,86,86713896
+"436","San Francisco Giants","Brian Sabean",117620683,0.58,2012,94,85753488
+"437","San Francisco Giants","Brian Sabean",140264334,0.469,2013,76,90385763
+"438","San Francisco Giants","Brian Sabean",154185878,0.543,2014,88,105625715
+"439","San Francisco Giants","Brian Sabean",187088630,0.519,2015,84,122453376
+"440","Seattle Mariners","Woody Woodward",43698136,0.472,1998,76,43894495
+"441","Seattle Mariners","Woody Woodward",44396336,0.488,1999,79,46066376
+"442","Seattle Mariners","Pat Gillick",58915000,0.562,2000,91,56543084
+"443","Seattle Mariners","Pat Gillick",75652500,0.716,2001,116,62847834
+"444","Seattle Mariners","Pat Gillick",80282668,0.574,2002,93,61107577
+"445","Seattle Mariners","Pat Gillick",86959167,0.574,2003,93,68979834
+"446","Seattle Mariners","Bill Bavasi",81543833,0.389,2004,63,62207785
+"447","Seattle Mariners","Bill Bavasi",85883333,0.426,2005,69,66007009
+"448","Seattle Mariners","Bill Bavasi",87959833,0.481,2006,78,72250291
+"449","Seattle Mariners","Bill Bavasi",106460833,0.543,2007,88,84616817
+"450","Seattle Mariners","Bill Bavasi",117666482,0.377,2008,61,79953783
+"451","Seattle Mariners","Jack Zduriencik",98904167,0.525,2009,85,81309612
+"452","Seattle Mariners","Jack Zduriencik",98376667,0.377,2010,61,84325334
+"453","Seattle Mariners","Jack Zduriencik",86424600,0.414,2011,67,86713896
+"454","Seattle Mariners","Jack Zduriencik",81978100,0.463,2012,75,85753488
+"455","Seattle Mariners","Jack Zduriencik",72031143,0.438,2013,71,90385763
+"456","Seattle Mariners","Jack Zduriencik",92081943,0.537,2014,87,105625715
+"457","Seattle Mariners","Jack Zduriencik",126031265,0.469,2015,76,122453376
+"458","St. Louis Cardinals","Walt Jocketty",44090854,0.512,1998,83,43894495
+"459","St. Louis Cardinals","Walt Jocketty",46173195,0.466,1999,75,46066376
+"460","St. Louis Cardinals","Walt Jocketty",61453863,0.586,2000,95,56543084
+"461","St. Louis Cardinals","Walt Jocketty",77270855,0.574,2001,93,62847834
+"462","St. Louis Cardinals","Walt Jocketty",74098267,0.599,2002,97,61107577
+"463","St. Louis Cardinals","Walt Jocketty",83486666,0.525,2003,85,68979834
+"464","St. Louis Cardinals","Walt Jocketty",75633517,0.648,2004,105,62207785
+"465","St. Louis Cardinals","Walt Jocketty",93319842,0.617,2005,100,66007009
+"466","St. Louis Cardinals","Walt Jocketty",88891371,0.516,2006,84,72250291
+"467","St. Louis Cardinals","Walt Jocketty",90286823,0.481,2007,78,84616817
+"468","St. Louis Cardinals","John Mozeliak",99624449,0.531,2008,86,79953783
+"469","St. Louis Cardinals","John Mozeliak",88528411,0.562,2009,91,81309612
+"470","St. Louis Cardinals","John Mozeliak",93540753,0.531,2010,86,84325334
+"471","St. Louis Cardinals","John Mozeliak",105433572,0.556,2011,90,86713896
+"472","St. Louis Cardinals","John Mozeliak",110300862,0.543,2012,88,85753488
+"473","St. Louis Cardinals","John Mozeliak",115222086,0.599,2013,97,90385763
+"474","St. Louis Cardinals","John Mozeliak",111020360,0.556,2014,90,105625715
+"475","St. Louis Cardinals","John Mozeliak",132178951,0.617,2015,100,122453376
+"476","Tampa Bay Rays","Chuck LaMar",27370000,0.389,1998,63,43894495
+"477","Tampa Bay Rays","Chuck LaMar",38027500,0.426,1999,69,46066376
+"478","Tampa Bay Rays","Chuck LaMar",62765129,0.429,2000,69,56543084
+"479","Tampa Bay Rays","Chuck LaMar",54951602,0.383,2001,62,62847834
+"480","Tampa Bay Rays","Chuck LaMar",34380000,0.342,2002,55,61107577
+"481","Tampa Bay Rays","Chuck LaMar",19630000,0.389,2003,63,68979834
+"482","Tampa Bay Rays","Chuck LaMar",29506667,0.435,2004,70,62207785
+"483","Tampa Bay Rays","Chuck LaMar",29893567,0.414,2005,67,66007009
+"484","Tampa Bay Rays","Andrew Friedman",35417967,0.377,2006,61,72250291
+"485","Tampa Bay Rays","Andrew Friedman",24123500,0.407,2007,66,84616817
+"486","Tampa Bay Rays","Andrew Friedman",43820597,0.599,2008,97,79953783
+"487","Tampa Bay Rays","Andrew Friedman",63313035,0.519,2009,84,81309612
+"488","Tampa Bay Rays","Andrew Friedman",71923471,0.593,2010,96,84325334
+"489","Tampa Bay Rays","Andrew Friedman",41932171,0.562,2011,91,86713896
+"490","Tampa Bay Rays","Andrew Friedman",64173500,0.556,2012,90,85753488
+"491","Tampa Bay Rays","Andrew Friedman",57895272,0.564,2013,91,90385763
+"492","Tampa Bay Rays","Andrew Friedman",77062891,0.475,2014,77,105625715
+"493","Tampa Bay Rays","Andrew Friedman",73582652,0.494,2015,80,122453376
+"494","Texas Rangers","Douglas Melvin",60519595,0.543,1998,88,43894495
+"495","Texas Rangers","Douglas Melvin",81576598,0.586,1999,95,46066376
+"496","Texas Rangers","Douglas Melvin",70795921,0.438,2000,71,56543084
+"497","Texas Rangers","Douglas Melvin",88504421,0.451,2001,73,62847834
+"498","Texas Rangers","John Hart",105302124,0.444,2002,72,61107577
+"499","Texas Rangers","John Hart",103491667,0.438,2003,71,68979834
+"500","Texas Rangers","John Hart",54825973,0.549,2004,89,62207785
+"501","Texas Rangers","John Hart",55307258,0.488,2005,79,66007009
+"502","Texas Rangers","Jon Daniels",68228662,0.494,2006,80,72250291
+"503","Texas Rangers","Jon Daniels",68318675,0.463,2007,75,84616817
+"504","Texas Rangers","Jon Daniels",67712326,0.488,2008,79,79953783
+"505","Texas Rangers","Jon Daniels",68646023,0.537,2009,87,81309612
+"506","Texas Rangers","Jon Daniels",55250545,0.556,2010,90,84325334
+"507","Texas Rangers","Jon Daniels",92299265,0.593,2011,96,86713896
+"508","Texas Rangers","Jon Daniels",120510974,0.574,2012,93,85753488
+"509","Texas Rangers","Jon Daniels",114090100,0.558,2013,90,90385763
+"510","Texas Rangers","Jon Daniels",136036172,0.414,2014,67,105625715
+"511","Texas Rangers","Jon Daniels",152445607,0.543,2015,88,122453376
+"512","Toronto Blue Jays","Gord Ash",34158500,0.543,1998,88,43894495
+"513","Toronto Blue Jays","Gord Ash",48455333,0.519,1999,84,46066376
+"514","Toronto Blue Jays","Gord Ash",46238333,0.512,2000,83,56543084
+"515","Toronto Blue Jays","Gord Ash",75798500,0.494,2001,80,62847834
+"516","Toronto Blue Jays","J.P. Ricciardi",76864333,0.481,2002,78,61107577
+"517","Toronto Blue Jays","J.P. Ricciardi",51269000,0.531,2003,86,68979834
+"518","Toronto Blue Jays","J.P. Ricciardi",50017000,0.416,2004,67,62207785
+"519","Toronto Blue Jays","J.P. Ricciardi",45336500,0.494,2005,80,66007009
+"520","Toronto Blue Jays","J.P. Ricciardi",71915000,0.537,2006,87,72250291
+"521","Toronto Blue Jays","J.P. Ricciardi",81942800,0.512,2007,83,84616817
+"522","Toronto Blue Jays","J.P. Ricciardi",97793900,0.531,2008,86,79953783
+"523","Toronto Blue Jays","J.P. Ricciardi",80993657,0.463,2009,75,81309612
+"524","Toronto Blue Jays","Alex Anthopoulos",62689357,0.525,2010,85,84325334
+"525","Toronto Blue Jays","Alex Anthopoulos",62517800,0.5,2011,81,86713896
+"526","Toronto Blue Jays","Alex Anthopoulos",75489200,0.451,2012,73,85753488
+"527","Toronto Blue Jays","Alex Anthopoulos",117527800,0.457,2013,74,90385763
+"528","Toronto Blue Jays","Alex Anthopoulos",132628700,0.512,2014,83,105625715
+"529","Toronto Blue Jays","Alex Anthopoulos",138309664,0.574,2015,93,122453376
+"530","Washington Nationals","Jim Bowden",48581500,0.5,2005,81,66007009
+"531","Washington Nationals","Jim Bowden",63143000,0.438,2006,71,72250291
+"532","Washington Nationals","Jim Bowden",37347500,0.451,2007,73,84616817
+"533","Washington Nationals","Jim Bowden",54961000,0.366,2008,59,79953783
+"534","Washington Nationals","Mike Rizzo",59328000,0.364,2009,59,81309612
+"535","Washington Nationals","Mike Rizzo",61425000,0.426,2010,69,84325334
+"536","Washington Nationals","Mike Rizzo",63681929,0.497,2011,81,86713896
+"537","Washington Nationals","Mike Rizzo",81336143,0.605,2012,98,85753488
+"538","Washington Nationals","Mike Rizzo",114056769,0.531,2013,86,90385763
+"539","Washington Nationals","Mike Rizzo",134704437,0.593,2014,96,105625715
+"540","Washington Nationals","Mike Rizzo",165655095,0.512,2015,83,122453376
+"541","","",NA,NA,2016,NA,NA
