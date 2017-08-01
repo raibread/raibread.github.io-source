@@ -6,7 +6,7 @@ layout: default
 
 Sensitivity Analysis for Matched Pair Analysis of Binary Data: From Worst Case to Average Case Analysis
 : Raiden B. Hasegawa and Dylan S. Small, *Biometrics (Early View)*, 2017.
-: [\[Link to Paper\]](http://onlinelibrary.wiley.com/doi/10.1111/biom.12688/abstract)  [\[Supplementary Material\]](../assets/avgcase-paper/avgSensAnalysis_webAppendix.pdf)  [\[R Code\]](../assets/avgcase-paper/avgSensAnalysis_Rcode.R)
+: [\[Link to Paper\]](http://onlinelibrary.wiley.com/doi/10.1111/biom.12688/abstract)  [\[Arxiv\]](https://arxiv.org/abs/1707.09549)  [\[Supplementary Material\]](../assets/avgcase-paper/avgSensAnalysis_webAppendix.pdf)  [\[R Code\]](../assets/avgcase-paper/avgSensAnalysis_Rcode.R)
 <br><br>
 
 Causal Inference with Two Versions of Treatment
