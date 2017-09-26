@@ -4,6 +4,10 @@ layout: default
 
 ### Causal Inference
 
+An Extended Sensitivity Analysis for Heterogeneous Unmeasured Confouding
+: Raiden B. Hasegawa and Colin B. Fogarty, *In preparation*, 2017.
+<br><br>
+
 Sensitivity Analysis for Matched Pair Analysis of Binary Data: From Worst Case to Average Case Analysis
 : Raiden B. Hasegawa and Dylan S. Small, *Biometrics (Early View)*, 2017.
 : [\[Link to Paper\]](http://onlinelibrary.wiley.com/doi/10.1111/biom.12688/abstract)  [\[Arxiv\]](https://arxiv.org/abs/1707.09549)  [\[Supplementary Material\]](../assets/avgcase-paper/avgSensAnalysis_webAppendix.pdf)  [\[R Code\]](../assets/avgcase-paper/avgSensAnalysis_Rcode.R)
@@ -17,7 +21,7 @@ Causal Inference with Two Versions of Treatment
 
 Association of Playing High School Football With Cognition and Mental Health Later in Life
 : Sameer K. Deshpande<sup>\*</sup>, Raiden B. Hasegawa<sup>\*</sup> et al., *JAMA Neurology (New Online)*, 2017.
-: [\[Link to Paper\]](http://jamanetwork.com/journals/jamaneurology/article-abstract/2635831)  [\[Pre-registered Protocol\]](https://arxiv.org/abs/1607.01756)  [\[News Coverage\]](https://www.theverge.com/2017/7/3/15913454/high-school-football-concussion-health-chronic-traumatic-encephalopathy)
+: [\[Link to Paper\]](http://jamanetwork.com/journals/jamaneurology/article-abstract/2635831)  [\[Pre-registered Protocol\]](https://arxiv.org/abs/1607.01756)  [\[News Coverage\]](https://www.theverge.com/2017/7/3/15913454/high-school-football-concussion-health-chronic-traumatic-encephalopathy)  [\[Scientific American Blog Post\]](https://blogs.scientificamerican.com/observations/head-trauma-in-high-school-football-may-be-more-complicated-than-we-thought/)
 <br><br>
 
 : <sup>\*</sup> These authors contributed equally.
