@@ -5,7 +5,7 @@ layout: default
 ### Causal Inference
 
 An Extended Sensitivity Analysis for Heterogeneous Unmeasured Confouding
-: Raiden B. Hasegawa and Colin B. Fogarty, *In preparation*, 2017.
+: Raiden B. Hasegawa and Colin B. Fogarty, *Revision Invited*, 2017+.
 <br><br>
 
 Sensitivity Analysis for Matched Pair Analysis of Binary Data: From Worst Case to Average Case Analysis
