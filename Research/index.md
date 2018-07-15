@@ -7,7 +7,7 @@ Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns
 : Raiden B. Hasegawa, Daniel W. Webster, and Dylan S. Small, *Revision Invited*, 2018.
 <br><br>
 
-Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with An Application to Sibling Studies of Returns to Education
+Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education
 : Raiden B. Hasegawa and Colin B. Fogarty, *Revision Submitted*, 2018+.
 : [\[Link to Paper\]](https://arxiv.org/abs/1711.05570)
 [\[Supplementary Material\]](../assets/extended-paper/supplemental_extended_sensitivity_rev1.pdf)
