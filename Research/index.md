@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Causal Inference
-Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns about Hisory Interacting with Group: Evaluating Missouri Handgun Purchaser Law
+Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns about History Interacting with Group: Evaluating Missouri Handgun Purchaser Law
 : Raiden B. Hasegawa, Daniel W. Webster, and Dylan S. Small, *Revision Invited*, 2018.
 <br><br>
 
