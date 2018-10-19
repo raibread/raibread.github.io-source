@@ -4,18 +4,18 @@ layout: default
 
 ### Teaching Assistant
 
-Fall 2017: STAT 431 - Statistical Inference
+STAT 613 - Regression Analysis for Business (Fall 2018)
 
-Spring 2017: STAT 474 - Modern Regression
+STAT 431 - Statistical Inference (Spring 2018, Fall 2017, Fall 2016)
 
-Fall 2016: STAT 431 - Statistical Inference
+STAT 474 - Modern Regression (Spring 2017)
 
-Spring 2016: STAT 101 - Introductory Business Statistics
+STAT 101 - Introductory Business Statistics (Spring 2016)
 
-Fall 2015: STAT 471 - Modern Data Mining
+STAT 471 - Modern Data Mining (Fall 2015)
 
-Spring 2015: STAT 102 - Introductory Business Statistics
+STAT 102 - Introductory Business Statistics (Spring 2015)
 
 ### Graduate Instructor
 
-Summer 2016 and 2017: [Wharton Moneyball Academy](https://wsb.wharton.upenn.edu/students/moneyball-academy/)
+[Wharton Moneyball Academy](https://wsb.wharton.upenn.edu/students/moneyball-academy/) (Summers 2016-2018)
