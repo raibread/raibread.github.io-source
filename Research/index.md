@@ -62,6 +62,5 @@ Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an A
 
 
 ## __Awards__
-
-Tom Ten Have Award, _Honorable Mention_ (2018).
-: Awarded at the 2018 Atlantic Causal Inference Conference for "exceptionally creative or skillful research on causal inference" for the paper _Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education_.
+National Science Foundation Travel Award (2018)
+: Awarded to the five best junior researcher posters at the 2018 Atlantic Causal Inference Conference; for the poster _Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education_
