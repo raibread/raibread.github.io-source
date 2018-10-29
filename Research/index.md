@@ -6,7 +6,7 @@ layout: default
 
 ### Causal Inference
 Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns about History Interacting with Group: Evaluating Missouri Handgun Purchaser Law
-: `Raiden B. Hasegawa`, Daniel W. Webster, and Dylan S. Small, *Revision Submitted*, 2018+.
+: `Raiden B. Hasegawa`, Daniel W. Webster, and Dylan S. Small, *Epidemiology* (to appear), 2018+.
 : [\[Link to Paper\]](../assets/bracketing-paper/bracketing_diff_in_diff_rev.pdf)
 [\[Supplementary Material\]](../assets/bracketing-paper/bracketing_diff_in_diff_supp.pdf)
 <br><br>
@@ -17,7 +17,7 @@ Causal Inference with Two Versions of Treatment
 <br><br>
 
 Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education
-: Colin B. Fogarty<sup>\*</sup> and `Raiden B. Hasegawa`<sup>\*</sup>, *Annals of Applied Statistics (to appear)*, 2018+.
+: Colin B. Fogarty<sup>\*</sup> and `Raiden B. Hasegawa`<sup>\*</sup>, *Annals of Applied Statistics* (to appear), 2018+.
 : [\[Link to Paper\]](../assets/extended-paper/article_extended_sensitivity.pdf)
 [\[Supplementary Material\]](../assets/extended-paper/supplement_extended_sensitivity.pdf)
 [\[R Code\]](../assets/extended-paper/code_rev2.zip)
@@ -54,10 +54,12 @@ Dynamic Prediction Pools: An Investigation of Financial Frictions and Forecastin
 
 Effects of Playing High School Football on Mental Health in Early Adulthood: An Observational Study
 : 2018 Add Health Users Conference, NIH Natcher Conference Center, Bethesda, MD (July 2018).
+: [\[Presentation\]](../assets/presentations/add_health_pres.pdf)
 <br><br>
 
 Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education 
 : 2018 Atlantic Causal Inference Conference Poster Presentation, Carnegie Mellon University, Pittsburgh, PA (May 2018).
+: [\[Poster\]](../assets/presentations/ESAPoster.pdf)
 <br><br>
 
 
