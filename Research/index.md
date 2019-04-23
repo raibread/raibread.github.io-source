@@ -14,6 +14,7 @@ Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns
 Causal Inference with Two Versions of Treatment
 : `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Invited*, 2018+.
 : [\[Link to Paper\]](../assets/versions-paper/versions.pdf)
+[\[R Code\]](../assets/versions-paper/versions-Rcode.zip)
 <br><br>
 
 Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education
