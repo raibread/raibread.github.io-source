@@ -6,13 +6,14 @@ layout: default
 
 ### Causal Inference
 Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns about History Interacting with Group: Evaluating Missouri Handgun Purchaser Law
-: `Raiden B. Hasegawa`, Daniel W. Webster, and Dylan S. Small, *Epidemiology* (to appear), 2018+.
-: [\[Link to Paper\]](../assets/bracketing-paper/bracketing_diff_in_diff_rev.pdf)
+: `Raiden B. Hasegawa`, Daniel W. Webster, and Dylan S. Small, *Epidemiology*, Volume 30, Issue 3, p.371-379, 2019.
+: [\[Link to Paper\]](https://journals.lww.com/epidem/Citation/2019/05000/Evaluating_Missouri_s_Handgun_Purchaser_Law__A.11.aspx)
 [\[Supplementary Material\]](../assets/bracketing-paper/bracketing_diff_in_diff_supp.pdf)
+[\[R Code\]](../assets/bracketing-paper/code.zip)
 <br><br>
 
 Causal Inference with Two Versions of Treatment
-: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Invited*, 2018+.
+: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Submitted*, 2018+.
 : [\[Link to Paper\]](../assets/versions-paper/versions.pdf)
 [\[R Code\]](../assets/versions-paper/versions-Rcode.zip)
 <br><br>
