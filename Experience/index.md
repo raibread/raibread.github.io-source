@@ -6,7 +6,7 @@ layout: default
 ### Education
 
 The Wharton School, University of Pennsylvania
-: PhD, Statistics (2014-2019 [_expected_])
+: PhD, Statistics (2014-2019)
 ^ 
 New York University
 : M.S. coursework, Scientific Computing (2012-2014)
@@ -27,9 +27,11 @@ Electricians' union discrimination case
 
 
 ### Work
-
+Google
+: Data Scientist (2019-Present)
+^
 Federal Reserve Bank of New York 
-:  Research Associate (2012-2014)
+: Research Associate (2012-2014)
 ^  
 GreenOrder
 : Sustainability Analyst (2011-2012)

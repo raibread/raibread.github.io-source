@@ -5,6 +5,12 @@ layout: default
 ## __Papers__
 
 ### Causal Inference
+Estimating Malaria Vaccine Efficacy in the Absence of a Gold Standard Case Definition: Mendelian Factorial Design
+: `Raiden B. Hasegawa` and Dylan S. Small,  *Under Review*, 2019.
+: [\[Link to Paper\]](../assets/mfd-paper/mendelian_factorial_design_arxiv.pdf)
+[\[R Code\]](../assets/mfd-paper/R_code.zip)
+<br><br>
+
 Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns about History Interacting with Group: Evaluating Missouri Handgun Purchaser Law
 : `Raiden B. Hasegawa`, Daniel W. Webster, and Dylan S. Small, *Epidemiology*, Volume 30, Issue 3, p.371-379, 2019.
 : [\[Link to Paper\]](https://journals.lww.com/epidem/Citation/2019/05000/Evaluating_Missouri_s_Handgun_Purchaser_Law__A.11.aspx)
@@ -19,7 +25,7 @@ Causal Inference with Two Versions of Treatment
 <br><br>
 
 Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education
-: Colin B. Fogarty<sup>\*</sup> and `Raiden B. Hasegawa`<sup>\*</sup>, *Annals of Applied Statistics* (to appear), 2018+.
+: Colin B. Fogarty<sup>\*</sup> and `Raiden B. Hasegawa`<sup>\*</sup>, *Annals of Applied Statistics*, Volume 13, Number 2, p.767-796, 2019.
 : [\[Link to Paper\]](../assets/extended-paper/article_extended_sensitivity.pdf)
 [\[Supplementary Material\]](../assets/extended-paper/supplement_extended_sensitivity.pdf)
 [\[R Code\]](../assets/extended-paper/code_rev2.zip)
