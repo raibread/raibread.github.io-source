@@ -6,9 +6,15 @@ layout: default
 
 ### Causal Inference
 Estimating Malaria Vaccine Efficacy in the Absence of a Gold Standard Case Definition: Mendelian Factorial Design
-: `Raiden B. Hasegawa` and Dylan S. Small,  *Under Review*, 2019.
+: `Raiden B. Hasegawa` and Dylan S. Small,  *Revision Invited*.
 : [\[Link to Paper\]](../assets/mfd-paper/mendelian_factorial_design_arxiv.pdf)
 [\[R Code\]](../assets/mfd-paper/R_code.zip)
+<br><br>
+
+Causal Inference with Two Versions of Treatment
+: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Submitted*.
+: [\[Link to Paper\]](../assets/versions-paper/versions.pdf)
+[\[R Code\]](../assets/versions-paper/versions-Rcode.zip)
 <br><br>
 
 Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns about History Interacting with Group: Evaluating Missouri Handgun Purchaser Law
@@ -16,12 +22,6 @@ Bracketing in the Comparative Interrupted Time-Series Design to Address Concerns
 : [\[Link to Paper\]](https://journals.lww.com/epidem/Citation/2019/05000/Evaluating_Missouri_s_Handgun_Purchaser_Law__A.11.aspx)
 [\[Supplementary Material\]](../assets/bracketing-paper/bracketing_diff_in_diff_supp.pdf)
 [\[R Code\]](../assets/bracketing-paper/code.zip)
-<br><br>
-
-Causal Inference with Two Versions of Treatment
-: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Submitted*, 2018+.
-: [\[Link to Paper\]](../assets/versions-paper/versions.pdf)
-[\[R Code\]](../assets/versions-paper/versions-Rcode.zip)
 <br><br>
 
 Extended Sensitivity Analysis for Heterogeneous Unmeasured Confounding with an Application to Sibling Studies of Returns to Education
@@ -57,6 +57,11 @@ Dynamic Prediction Pools: An Investigation of Financial Frictions and Forecastin
 
 : <sup>\+</sup> Alphabetical ordering.
 <br><br>
+
+## __Papers in Preparation__
+
+Bracketing Bounds for Differences-in-Differences with an Application to Voter ID Laws
+: Luke Keele, Raiden B. Hasegawa, and Dylan S. Small.
 
 ## __Presentations__
 
