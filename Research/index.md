@@ -6,13 +6,13 @@ layout: default
 
 ### Causal Inference
 Estimating Malaria Vaccine Efficacy in the Absence of a Gold Standard Case Definition: Mendelian Factorial Design
-: `Raiden B. Hasegawa` and Dylan S. Small,  *Revision Invited*.
+: `Raiden B. Hasegawa` and Dylan S. Small,  *Under Minor Revision for Journal of American Statistical Association*.
 : [\[Link to Paper\]](../assets/mfd-paper/mendelian_factorial_design_arxiv.pdf)
 [\[R Code\]](../assets/mfd-paper/R_code.zip)
 <br><br>
 
 Causal Inference with Two Versions of Treatment
-: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Submitted*.
+: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Submitted to Journal of Educational and Business Statistics*.
 : [\[Link to Paper\]](../assets/versions-paper/versions.pdf)
 [\[R Code\]](../assets/versions-paper/versions-Rcode.zip)
 <br><br>
