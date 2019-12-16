@@ -12,7 +12,7 @@ Estimating Malaria Vaccine Efficacy in the Absence of a Gold Standard Case Defin
 <br><br>
 
 Causal Inference with Two Versions of Treatment
-: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Revision Submitted to Journal of Educational and Business Statistics*.
+: `Raiden B. Hasegawa`, Sameer K. Deshpande, Dylan S. Small, and Paul R. Rosenbaum, *Journal of Educational and Business Statistics*, to appear.
 : [\[Link to Paper\]](../assets/versions-paper/versions.pdf)
 [\[R Code\]](../assets/versions-paper/versions-Rcode.zip)
 <br><br>
@@ -47,6 +47,10 @@ Association of Playing High School Football With Cognition and Mental Health Lat
 
 : <sup>\*</sup> These authors contributed equally.
 <br><br>
+
+The association between football participation in adolescence and mental health in early adulthood
+: Sameer K. Deshpande, `Raiden B. Hasegawa`, Jordan Weiss, and Dylan S. Small, *Under Revision for PLOS ONE*
+: [\[Link to Pre-analysis Protocol\]](https://arxiv.org/abs/1808.03934)
 
 ### Bayesian Macroeconomic Forecasting
 
