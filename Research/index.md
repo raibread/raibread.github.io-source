@@ -11,7 +11,7 @@ A Negative Correlation Strategy for Bracketing in Difference-in-Differences with
 <br><br>
 
 Estimating Malaria Vaccine Efficacy in the Absence of a Gold Standard Case Definition: Mendelian Factorial Design
-: `Raiden B. Hasegawa` and Dylan S. Small,  *Under Minor Revision for Journal of American Statistical Association*.
+: `Raiden B. Hasegawa` and Dylan S. Small,  *Revision Submitted to Journal of American Statistical Association*.
 : [\[Link to Paper\]](../assets/mfd-paper/mendelian_factorial_design_arxiv.pdf)
 [\[R Code\]](../assets/mfd-paper/R_code.zip)
 <br><br>
