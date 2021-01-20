@@ -5,8 +5,8 @@ layout: default
 ## __Papers__
 
 ### Causal Inference
-A Negative Correlation Strategy for Bracketing in Difference-in-Differences with Application to the Effect of Voter Identification Laws on Voter Turnout
-: Ting Ye, Luke Keele, `Raiden B. Hasegawa`, and Dylan S. Small, *Under Review for Annals of Applied Statistics*.
+A Negative Correlation Strategy for Bracketing in Difference-in-Differences
+: Ting Ye, Luke Keele, `Raiden B. Hasegawa`, and Dylan S. Small, *Submitted*.
 : [\[Arxiv\]](https://arxiv.org/abs/2006.02423)
 <br><br>
 
